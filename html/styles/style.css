@@ -1,0 +1,18 @@
+ul {
+    color:blue;
+   } 
+
+   ol .urgent {
+    color:red;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: aqua;
+   }
+
+   ol li[disabled] {
+    opacity: 0.5;
+   }
+   li {
+    color:green;
+   }
+
